@@ -31,7 +31,7 @@
 		w = undefined;
 	}
 
-	<!--startWorker();-->
+	startWorker();
 	</script>
 
     <title>Impfampel Dashboard</title>
