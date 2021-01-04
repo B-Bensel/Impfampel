@@ -25,6 +25,7 @@ Vorraussetzungen:
 Das Steuergerät basiert auf einem D1 Mini Pro mit externer Antenne. Taster S1 schaltet auf belegt(rot). Taster S2 schaltet auf frei(grün). An die Steckverbindung U1 kann eine zusätzliche RGB LED zum anzeigen des Status außerhalb der Impfkabine angeschlossen werden.
 
 ### Bauteilliste
+
 Bauteil | Anzahl | Reichelt Artikel-Nr.
 --- | --- | ---
 D1 Mini Pro | 1 | [D1 MINI-PRO ANT](https://www.reichelt.de/d1-mini-pro-esp8266-cp2104-set-mit-antenne-d1-mini-pro-ant-p266067.html?&trstct=pos_0&nbc=1)
@@ -35,9 +36,15 @@ Gehäuse | 1 | [GEH KS 42](https://www.reichelt.de/kleingehaeuse-72-x-50-x-42-mm
 RGB LED | 1 | [LED LL 5-8000RGB](https://www.reichelt.de/rgb-led-5-mm-bedrahtet-4-pin-rt-gn-bl-8000-mcd-25--led-ll-5-8000rgb-p156358.html?&trstct=pos_10&nbc=1)
 100 kOhm Widerstand | 2 | [K-O SFCN1003T52](https://www.reichelt.de/widerstand-metallschicht-100-kohm-0207-0-6-w-1--k-o-sfcn1003t52-p237347.html?&trstct=pos_0&nbc=1)
 
+### Schaltplan
+
 ![Schaltplan](Schaltplan.jpg)
 
+### Außenansicht
+
 ![Außenansicht des Steuergerätes](Steuergerät_außen.JPG)
+
+### Innenansicht
 
 ![Innenansicht des Steuergerätes](Steuergerät_innen.JPG)
 
