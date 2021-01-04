@@ -9,7 +9,7 @@ Das Projekt dient dazu den Personenfluss in einem Impfzentrum besser zu lenken. 
 Vorraussetzungen:
 
  - Server mit Apache, PHP, Mysql
- - Gerät zur Steuerung z.B. ESP8266
+ - Gerät zur Steuerung z.B. D1 Mini Pro
  
 1. Ordnerinhalt Server in ein Verzeichnis der Webservers kopieren.
 2. Datenbankstruktur anhand der Impfampel.sql Datei erzeugen.
